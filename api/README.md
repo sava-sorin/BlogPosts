@@ -7,6 +7,6 @@
     - npm run setup:start
 
 
-### Have fun with this crud with node.js(express),MongoDB,React,Redux with class components and Hooks!
+### Have fun with this CRUD with node.js(express),MongoDB,React,Redux with class components and Hooks!
 
 ## Done By [Sava Stefan Sorin aka Niros](https://niros-37f79.web.app/)
