@@ -1,10 +1,11 @@
 # BlogTest
 
 ### For installing dependencies
-    - npm run install
+    - npm install (for installing concurrently)
+    - npm run setup:install
 
-### For starting the server independent
-    - npm start
+### For starting the app backend & frontend
+    - npm run setup:start
 
 
 ### Have fun with this CRUD with node.js(express),MongoDB,React,Redux with class components and Hooks!
